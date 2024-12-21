@@ -1,3 +1,14 @@
+![Screenshot 2024-12-21 082934](https://github.com/user-attachments/assets/8ad95e4e-4205-4ba0-9c71-9dbe16e9ad4a)
+![Screenshot 2024-12-21 083045](https://github.com/user-attachments/assets/c4b7a15b-e33d-4fad-a5f7-75e63ea6dcc7)
+![Screenshot 2024-12-21 083153](https://github.com/user-attachments/assets/d15c57f6-bdb0-4945-9110-8a83d593138a)
+![Screenshot 2024-12-21 083342](https://github.com/user-attachments/assets/fe087340-d0b4-486b-b862-de7e9d9d764a)
+![Screenshot 2024-12-21 083452](https://github.com/user-attachments/assets/a0df1724-a24f-40c5-9b01-d598f3950bfe)
+![Screenshot 2024-12-21 083606](https://github.com/user-attachments/assets/8686534c-6474-4fc4-b392-2d056a0c0a45)
+![Screenshot 2024-12-21 083719](https://github.com/user-attachments/assets/553a460b-f7b2-461f-9e9e-141ddd04f821)
+![Screenshot 2024-12-21 083828](https://github.com/user-attachments/assets/b10a91d1-319d-44a3-af51-68f2d3903620)
+![Screenshot 2024-12-21 083856](https://github.com/user-attachments/assets/da3c1575-c1e7-4e3d-be81-152beb55c5aa)
+
+
 # Hospital Management System
 
 A modern and user-friendly hospital management system built with Python and Tkinter. This application helps manage patients, doctors, appointments, and other hospital-related data efficiently.
