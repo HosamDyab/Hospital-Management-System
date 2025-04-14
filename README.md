@@ -38,7 +38,7 @@ A modern and user-friendly hospital management system built with Python and Tkin
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/HosamDyab/Hospital-Management-System.git
 ```
 
 2. Install the required packages:
@@ -76,7 +76,7 @@ DB_CONFIG = {
     'host': 'localhost',
     'user': 'your_username',
     'password': 'your_password',
-    'database': 'hospital_management_system'
+    'database': 'your_databasename'
 }
 ```
 
